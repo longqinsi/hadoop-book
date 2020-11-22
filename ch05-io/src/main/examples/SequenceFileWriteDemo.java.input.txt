@@ -1,1 +1,1 @@
-hadoop SequenceFileWriteDemo numbers.seq
+hadoop ch05.SequenceFileWriteDemo numbers.seq

@@ -1,6 +1,7 @@
 {
   "type": "record",
   "name": "StringPair",
+  "namespace": "ch12",
   "doc": "A pair of strings with an added (nullable) field.",
   "fields": [
     {"name": "left", "type": "string"},

@@ -1,1 +1,1 @@
-hadoop TextIterator
+hadoop ch05.TextIterator

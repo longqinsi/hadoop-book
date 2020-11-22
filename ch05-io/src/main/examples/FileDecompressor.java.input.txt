@@ -1,1 +1,1 @@
-hadoop FileDecompressor file.gz
+hadoop ch05.FileDecompressor file.gz

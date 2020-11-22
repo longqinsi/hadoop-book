@@ -1,2 +1,2 @@
-hadoop jar avro-examples.jar AvroGenericMaxTemperature \
+hadoop jar avro-examples.jar ch12.AvroGenericMaxTemperature \
   input/ncdc/sample.txt output

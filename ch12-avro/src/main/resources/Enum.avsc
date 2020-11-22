@@ -1,6 +1,7 @@
 {
   "type": "enum",
   "name": "Cutlery",
+  "namespace": "ch12",
   "doc": "An eating utensil.",
   "symbols": ["KNIFE", "FORK", "SPOON"]
 }

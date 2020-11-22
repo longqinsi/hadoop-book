@@ -1,6 +1,7 @@
 {
   "type": "record",
   "name": "StringPair",
+  "namespace": "ch12",
   "doc": "A pair of strings with aliased field names.",
   "fields": [
     {"name": "first", "type": "string", "aliases": ["left"]},

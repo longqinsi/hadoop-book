@@ -1,1 +1,1 @@
-hadoop jar hadoop-examples.jar MaxTemperatureWithCounters input/ncdc/all output-counters
+hadoop jar hadoop-examples.jar ch09.MaxTemperatureWithCounters input/ncdc/all output-counters

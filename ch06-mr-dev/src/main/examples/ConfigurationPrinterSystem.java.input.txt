@@ -1,1 +1,1 @@
-hadoop -Dcolor=yellow ConfigurationPrinter | grep color
+hadoop -Dcolor=yellow ch06.ConfigurationPrinter | grep color

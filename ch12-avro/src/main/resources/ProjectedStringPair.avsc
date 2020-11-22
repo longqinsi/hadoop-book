@@ -1,6 +1,7 @@
 {
   "type": "record",
   "name": "StringPair",
+  "namespace": "ch12",
   "doc": "The right field of a pair of strings.",
   "fields": [
     {"name": "right", "type": "string"}

@@ -1,1 +1,1 @@
-hadoop MaxTemperature input/ncdc/sample.txt output
+hadoop ch02.MaxTemperature input/ncdc/sample.txt output

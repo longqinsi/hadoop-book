@@ -18,15 +18,15 @@
         </property>
         <property>
           <name>mapreduce.job.map.class</name>
-          <value>MaxTemperatureMapper</value>
+          <value>ch02.MaxTemperatureMapper</value>
         </property>
         <property>
           <name>mapreduce.job.combine.class</name>
-          <value>MaxTemperatureReducer</value>
+          <value>ch02.MaxTemperatureReducer</value>
         </property>
         <property>
           <name>mapreduce.job.reduce.class</name>
-          <value>MaxTemperatureReducer</value>
+          <value>ch02.MaxTemperatureReducer</value>
         </property>
         <property>
           <name>mapreduce.job.output.key.class</name>
@@ -50,7 +50,7 @@
     <error to="fail"/>
   </action>
   <kill name="fail">
-    <message>MapReduce failed, error message[${wf:errorMessage(wf:lastErrorNode())}]
+    <message>ch19.MapReduce failed, error message[${wf:errorMessage(wf:lastErrorNode())}]
     </message>
   </kill>
   <end name="end"/>

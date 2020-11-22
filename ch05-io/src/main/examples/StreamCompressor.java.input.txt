@@ -1,2 +1,2 @@
-echo "Text" | hadoop StreamCompressor org.apache.hadoop.io.compress.GzipCodec \
+echo "Text" | hadoop ch05.StreamCompressor org.apache.hadoop.io.compress.GzipCodec \
   | gunzip -

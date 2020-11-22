@@ -11,7 +11,7 @@
   <artifactId>ch06-mr-dev</artifactId>
   <packaging>jar</packaging>
   <version>4.0</version>
-  <name>Chapter 6: Developing a MapReduce Application</name>
+  <name>Chapter 6: Developing a ch19.MapReduce Application</name>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>

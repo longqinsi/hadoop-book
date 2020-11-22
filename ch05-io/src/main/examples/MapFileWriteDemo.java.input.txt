@@ -1,1 +1,1 @@
-hadoop MapFileWriteDemo numbers.map
+hadoop ch05.MapFileWriteDemo numbers.map

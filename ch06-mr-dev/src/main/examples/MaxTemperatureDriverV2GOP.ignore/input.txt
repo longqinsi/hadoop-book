@@ -1,1 +1,1 @@
-hadoop v2.MaxTemperatureDriver -fs file:/// -jt local input/ncdc/micro output
+hadoop ch06.v2.MaxTemperatureDriver -fs file:/// -jt local input/ncdc/micro output

@@ -1,1 +1,1 @@
-hadoop MapFileFixer numbers.map
+hadoop ch05.MapFileFixer numbers.map

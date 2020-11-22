@@ -1,2 +1,2 @@
-hadoop jar hadoop-examples.jar MaxTemperatureByStationNameUsingDistributedCacheFile \
+hadoop jar hadoop-examples.jar ch09.MaxTemperatureByStationNameUsingDistributedCacheFile \
   -files input/ncdc/metadata/stations-fixed-width.txt input/ncdc/all output

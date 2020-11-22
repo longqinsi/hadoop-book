@@ -1,1 +1,1 @@
-hadoop SortDataPreprocessor input/ncdc/micro output
+hadoop ch09.SortDataPreprocessor input/ncdc/micro output

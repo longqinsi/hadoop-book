@@ -1,1 +1,1 @@
-hadoop jar hadoop-examples.jar MissingTemperatureFields job_200904200610_0003
+hadoop jar hadoop-examples.jar ch09.MissingTemperatureFields job_200904200610_0003

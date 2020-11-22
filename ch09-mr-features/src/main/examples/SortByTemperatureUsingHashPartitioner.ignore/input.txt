@@ -1,2 +1,2 @@
-hadoop SortDataPreprocessor input/ncdc/micro output-seq
-hadoop SortByTemperatureUsingHashPartitioner output-seq output
+hadoop ch09.SortDataPreprocessor input/ncdc/micro output-seq
+hadoop ch09.SortByTemperatureUsingHashPartitioner output-seq output
